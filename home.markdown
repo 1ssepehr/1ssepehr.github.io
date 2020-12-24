@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-<img align="right" width="256" height="256" src="picture.jpg">
+<img align="right" width="40%" style="padding: 20px;" src="picture.jpg">
 
 Hi, I'm Sepehr Madani. I'm a CS sophomore at UML, passionate about software design and user interface designs.
 
