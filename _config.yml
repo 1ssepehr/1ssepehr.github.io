@@ -21,9 +21,6 @@
 title: Sepehr Madani
 email: seyedsepehr_madani@student.uml.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Here's an awesome description about how good I am.
-  Let me share you in on a little secret; I am a secret
-  spy from Russia.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 1ssepehr
