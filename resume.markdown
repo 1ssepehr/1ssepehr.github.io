@@ -9,3 +9,5 @@ permalink: /resume/
 </head>
 
 Redirecting to resume...
+
+If the page did not redirect, [download the file here](/../resume.pdf).
